@@ -391,3 +391,16 @@ The tool evaluates the most critical vulnerabilities within each asset in the ag
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
+
+## ⚖️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ✉️ Contact
+
+- **Seungjoo Kim (Corresponding Author)** — Professor, Korea University, School of Cybersecurity (skim71@korea.ac.kr)
+- **Dohee Kang (First author)** — M.S. course, Korea University, School of Cybersecurity (kangdohee1211@korea.ac.kr)
+- **Our Lab** — [Security Automation aNd Engineering Lab (SANE Lab)](https://sites.google.com/view/seceng/home)
+---
